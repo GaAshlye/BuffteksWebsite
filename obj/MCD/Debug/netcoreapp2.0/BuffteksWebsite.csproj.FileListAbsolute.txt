@@ -1,0 +1,10 @@
+C:\CIDM3312\BuffTeksWebsite\BuffteksWebsiteSolution\BuffteksWebsite\bin\MCD\Debug\netcoreapp2.0\BuffteksWebsite.deps.json
+C:\CIDM3312\BuffTeksWebsite\BuffteksWebsiteSolution\BuffteksWebsite\bin\MCD\Debug\netcoreapp2.0\BuffteksWebsite.runtimeconfig.json
+C:\CIDM3312\BuffTeksWebsite\BuffteksWebsiteSolution\BuffteksWebsite\bin\MCD\Debug\netcoreapp2.0\BuffteksWebsite.runtimeconfig.dev.json
+C:\CIDM3312\BuffTeksWebsite\BuffteksWebsiteSolution\BuffteksWebsite\bin\MCD\Debug\netcoreapp2.0\BuffteksWebsite.dll
+C:\CIDM3312\BuffTeksWebsite\BuffteksWebsiteSolution\BuffteksWebsite\bin\MCD\Debug\netcoreapp2.0\BuffteksWebsite.pdb
+C:\CIDM3312\BuffTeksWebsite\BuffteksWebsiteSolution\BuffteksWebsite\obj\MCD\Debug\netcoreapp2.0\BuffteksWebsite.csproj.CoreCompileInputs.cache
+C:\CIDM3312\BuffTeksWebsite\BuffteksWebsiteSolution\BuffteksWebsite\obj\MCD\Debug\netcoreapp2.0\BuffteksWebsite.AssemblyInfoInputs.cache
+C:\CIDM3312\BuffTeksWebsite\BuffteksWebsiteSolution\BuffteksWebsite\obj\MCD\Debug\netcoreapp2.0\BuffteksWebsite.AssemblyInfo.cs
+C:\CIDM3312\BuffTeksWebsite\BuffteksWebsiteSolution\BuffteksWebsite\obj\MCD\Debug\netcoreapp2.0\BuffteksWebsite.dll
+C:\CIDM3312\BuffTeksWebsite\BuffteksWebsiteSolution\BuffteksWebsite\obj\MCD\Debug\netcoreapp2.0\BuffteksWebsite.pdb
